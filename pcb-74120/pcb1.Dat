@@ -1,0 +1,21 @@
+Field=Name~String~Name~100|Field=Part Number~String~Part Number~100|Field=Supplier~String~Supplier~125|Field=Component~String~Component~100|Field=Quantity~Integer~Quantity~100|Field=Unit Price~String~Unit Price~125|Field=Comment~String~Comment~100|Field=Footprint~String~Footprint~100|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~pcb1.PrjPcb|ReportField=ProjectFullPath~\\psf\Dropbox\Uni\Year 3\Term 1\Individual Project\Hardware\pcb\pcb1.PrjPcb|ReportField=Title~Bill of Materials For Project [pcb1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~35|ReportField=ReportTime~18:33:43|ReportField=ReportDate~12/11/2014|ReportField=ReportDateTime~12/11/2014 18:33:43|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~12/11/2014|ReportField=CurrentTime~18:31:25|ReportField=Date~|ReportField=DocumentFullPathAndName~\\psf\Dropbox\Uni\Year 3\Term 1\Individual Project\Hardware\pcb\sch1.SchDoc|ReportField=DocumentName~sch1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~12/11/2014|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~pcb1.PrjPcb|ReportField=DataSourceFullPath~\\psf\Dropbox\Uni\Year 3\Term 1\Individual Project\Hardware\pcb\pcb1.PrjPcb
+|311-1100-1-ND|Digikey|XTAL Caps|2|0.07|12 pF|0805
+|311-1088-1-ND|Digikey|0.1UF 16V 10%|8|0.07|100 nF|1608[0603]
+|311-1521-1-ND|Digikey|4.7UF 6.3V 10% Decoupling|1|0.11|4.7 uF|1608[0603]
+|||16 pin header|1|0.00|XYZ Pad Columns|HDR1X16H
+|475-2740-1-ND|Digikey|Orange Power LED 2 mA|1|0.17|Power LED|1608[0603]
+|475-1196-1-ND|Digikey|Yellow debug LED 2 mA|1|0.14|Debug LED|1608[0603]
+|34-00003|Digikey|Side strip position & pressure sensor|4|8.73|FSLP|FSLP SMT connector
+|||USB Receptacle|1||USB_CONN_A|USB_CONN_TYPEA_.9
+|445-6755-1-ND|Digikey|10UH 300MA 600 MOHM Inductor|1|0.12|10 uH|1608[0603]
+|||2x3 Programmer header|1||ICSP|HDR2X3H
+|1276-3485-1-ND|Digikey|RES 10K OHM 1/10W 1% 0603|1|0.07|10K|1608[0603]
+|1276-4635-1-ND|Digikey|RES 750 OHM 1/10W 1% 0603|2|0.07|750|1608[0603]
+Ben|1276-4709-1-ND|Digikey|4.64 K Resistor|4|0.07|4.64K|1608[0603]
+|1276-4768-1-ND|Digikey|RES 20K OHM 1/10W 1% 0603|1|0.07|20K|1608[0603]
+|||10 pin header|1|0.00|XYZ Pad Rows|HDR1X10H
+|SW1020CT-ND|Digikey|B3U-1000P Switch|1|0.86|Reset|B3U-1000P
+|ATMEGA640-16AURCT-ND|Digikey|100A 8-bit AVR uC|1|7.92|ATmega640|100A_N
+|||FTDI USB UART|1||FT232R|SSOP28
+|568-2699-5-ND|Digikey|Row MuX|1|2.02|74HC4067|74HC4067
+|644-1204-1-ND|digikey|7.3278 MHz Clock|1|0.44|XTAL|crystal
